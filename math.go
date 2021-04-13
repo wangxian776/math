@@ -2,7 +2,7 @@ package math
 
 import "fmt"
 
-const Version = "v1.0.0"
+const Version = "v1.2.0"
 
 var Pi float32 = 3.14169
 
