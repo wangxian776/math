@@ -1,3 +1,3 @@
 package pkg
 
-const name = "pkg"
+const Name = "pkg"
