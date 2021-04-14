@@ -1,3 +1,9 @@
 package pkg
 
-const Name = "pkg"
+import "fmt"
+
+const name = "pkg"
+
+func GetName() {
+	fmt.Println(name)
+}
